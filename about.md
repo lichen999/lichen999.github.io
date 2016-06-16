@@ -5,9 +5,9 @@ layout: page
 
 Welcome to my page! I am a PhD candidate at [ECARES](http://ecares.org/){:target="_blank"}, [Université libre de Bruxelles](http://www.ulb.ac.be/){:target="_blank"}, and [FNRS](http://www.fnrs.be/){:target="_blank"} under the supervision of [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Patrick Legros](http://plegros.net/){:target="_blank"}.
 
-My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market.
+My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](http://homepages.ulb.ac.be/~lichen/CV_lichen.pdf){:target="_blank"} here.
 
-## Contact
+### Contact
 
 email: lichen at ulb.ac.be
 
