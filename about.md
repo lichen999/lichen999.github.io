@@ -3,13 +3,11 @@ title: About
 layout: page
 ---
 
-#### Contact
+## Contact
 
 lichen at ulb.ac.be
 
-ECARES, Université libre de Bruxelles
-
-+ 32 2 650 4817
+0032 2 650 4817
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
 
