@@ -2,7 +2,15 @@
 layout: page
 title: Research
 ---
-<section class="list">
+<h2>Working apers</h2>
+
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
+
+<!--<section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star == true %}star{% endif %}">
@@ -14,3 +22,4 @@ title: Research
         {% endif %}
     {% endfor %}
 </section>
+-->
