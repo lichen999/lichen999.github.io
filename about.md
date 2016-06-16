@@ -5,9 +5,9 @@ layout: page
 
 ## Contact
 
-lichen at ulb.ac.be
+email: lichen at ulb.ac.be
 
-0032 2 650 4817
+phone: 0032 2 650 4817
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
 
