@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: post
 ---
 
 Welcome to my page! I am a PhD candidate at [ECARES](http://ecares.org/){:target="_blank"}, [Université libre de Bruxelles](http://www.ulb.ac.be/){:target="_blank"}, and [FNRS](http://www.fnrs.be/){:target="_blank"} under the supervision of [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Patrick Legros](http://plegros.net/){:target="_blank"}.
