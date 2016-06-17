@@ -1,9 +1,13 @@
 # humanstxt.org/
 
-# TEAM
+/* TEAM */
 
-	Your name - your home
+	Li Chen
+	http://lichen999.github.io/
 
 # TECHNOLOGY
 
 	HTML5, CSS3, JS, JEKYLL
+
+/* SITE*/
+   last updated: 06/2016
