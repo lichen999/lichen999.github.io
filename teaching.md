@@ -2,6 +2,7 @@
 layout: post
 title: Teaching
 ---
+#### Université libre de Bruxelles
 
 * 2012 - 2014: TA for [Graduate Microeconomics II](http://www.plegros.net/content/spring/graduate-micro-ii-econ-s431)
 
