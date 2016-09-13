@@ -3,15 +3,17 @@ title: About
 layout: post
 ---
 
-Welcome to my page! I am a PhD candidate at [ECARES](http://ecares.org/){:target="_blank"}, [Université libre de Bruxelles](http://www.ulb.ac.be/){:target="_blank"}, and [FNRS](http://www.fnrs.be/){:target="_blank"} under the supervision of [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Patrick Legros](http://plegros.net/){:target="_blank"}.
+#### Welcome to my page! 
 
-My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](http://homepages.ulb.ac.be/~lichen/CV_lichen.pdf){:target="_blank"} here.
+My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](lichen999.github.io/CV_lichen.pdf){:target="_blank"} here.
 
-### Contact
+I am currently a postdoct researcher at [University of Gothenburg](www.gu.se/english){:target="_blank"}.
 
-email: lichen at ulb.ac.be
+#### Contact
 
-phone: 0032 2 650 4817
+email: li.chen at economics.gu.se
+
+phone: +46 31 786 6151
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
 
