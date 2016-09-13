@@ -11,12 +11,12 @@ I am currently a postdoct researcher at [University of Gothenburg](www.gu.se/eng
 
 #### Contact
 
-add: Department of Economics, University of Gothenburg
+**Add**: Department of Economics, University of Gothenburg
 Box 640, 405 30 Gothenburg, Sweden
 
-email: li.chen at economics.gu.se
+**Email**: li.chen at economics.gu.se
 
-phone: +46 31 786 6151
+**Phone**: +46 31 786 6151
 
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
