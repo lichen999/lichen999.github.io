@@ -5,15 +5,19 @@ layout: post
 
 #### Welcome to my page! 
 
-My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](lichen999.github.io/CV_lichen.pdf){:target="_blank"} here.
+My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](https://lichen999.github.io/CV_lichen.pdf){:target="_blank"} here.
 
 I am currently a postdoct researcher at [University of Gothenburg](www.gu.se/english){:target="_blank"}.
 
 #### Contact
 
+add: Department of Economics, University of Gothenburg
+Box 640, 405 30 Gothenburg, Sweden
+
 email: li.chen at economics.gu.se
 
 phone: +46 31 786 6151
+
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
 
