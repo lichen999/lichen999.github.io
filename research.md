@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-<h2>Working Papers</h2>
+#### Working Papers
 
 [Timing of Preference Submissions: A Market Design Approach](http://homepages.ulb.ac.be/~lichen/jmp1.pdf)
 
