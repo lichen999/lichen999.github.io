@@ -7,7 +7,7 @@ layout: post
 
 My research interests are microeconomics, and in particular market design and matching markets. By using both theory and data, I am exploring topics related to college admissions, school choice and marriage market. Please find my [CV](https://lichen999.github.io/CV_lichen.pdf){:target="_blank"} here.
 
-I am currently a postdoct researcher at [University of Gothenburg](www.gu.se/english){:target="_blank"}.
+I am currently a postdoct researcher at [University of Gothenburg](http://www.gu.se/english){:target="_blank"}.
 
 #### Contact
 
