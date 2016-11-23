@@ -5,12 +5,12 @@ title: Research
 
 #### Working Papers
 
-[Timing of Preference Submissions: A Market Design Approach](http://homepages.ulb.ac.be/~lichen/jmp1.pdf)
+[Timing of Preference Submissions: A Market Design Approach]() *a new version coming soon*
 
 [Self-selection in School choice](https://sites.google.com/site/juanspereyrabarreiro/self-selection.pdf?attredirects=0), with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
 
 #### Work in Progress
-Time-constrained School Choice, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
+Time-constrained School Choice, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} 
 
 
 <!--<section class="list">
