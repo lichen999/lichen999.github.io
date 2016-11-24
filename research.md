@@ -5,7 +5,7 @@ title: Research
 
 #### Working Papers
 
-Timing of Preference Submissions: A Market Design Approach] *(a new version coming soon)*
+Timing of Preference Submissions: A Market Design Approach *(a new version coming soon)*
 
 [Self-selection in School choice](https://sites.google.com/site/juanspereyrabarreiro/self-selection.pdf?attredirects=0), with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
 
