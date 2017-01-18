@@ -7,7 +7,7 @@ title: Research
 
 Timing of Preference Submissions: A Market Design Approach *(a new version coming soon)*
 
-[Self-selection in School choice](https://361b80f8-a-62cb3a1a-s-sites.googlegroups.com/site/juanspereyrabarreiro/self-selection.pdf?attachauth=ANoY7cry7yCQu4oedL9fHdvkXlrAMQo_2YRdLW7Xm1gW90BNB90NDkSod6S0lgXQ-f_UPBk9mIrryZC_2ffTio8Tp0xXPKAWypwKl9G0BIRbQ6cf-5bUsuORg_sfL-96XhMqBelKTTJAdkdOcfWUjjo-G6kVJaMx5QRoCi_cey60xIKucM9eewz5BMYBkxC47yn0bsphHByv3ckQU5Y-b6K9gY0NGyCQHJ99Z6uLTnVx6EoSPuDJqWU%3D&attredirects=0), with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
+[Self-selection in School choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182), with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
 
 #### Work in Progress
 Time-constrained School Choice, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} (draft available upon request)
