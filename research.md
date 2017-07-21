@@ -5,7 +5,7 @@ title: Research
 
 #### Working Papers
 
-Timing of Preference Submissions: A Market Design Approach *(a new version coming soon)*
+[Timing of Preference Submissions under the Boston mechanism](https://lichen999.github.io/timing.pdf){:target="_blank"}
 
 [Self-selection in School choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182), with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
 
