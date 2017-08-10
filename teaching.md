@@ -4,9 +4,9 @@ title: Teaching
 ---
 #### University of Gothenburg
 
-* Advanced Industrial Organization, Lecturer, 2017 Spring
+* Advanced Industrial Organization, Lecturer, 2017 Spring.
 
-* Master/Bachelor thesis supervision
+* Master & Bachelor thesis supervision.
 
 #### Université libre de Bruxelles
 
