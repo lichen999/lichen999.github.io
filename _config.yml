@@ -89,6 +89,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - font-awesome-rails
 
 jekyll-mentions:
     base_url: https://github.com
