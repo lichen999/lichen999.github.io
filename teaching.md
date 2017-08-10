@@ -8,7 +8,7 @@ Graduate:
 * Advanced Industrial Organization, Lecturer, 2017 Spring.
 
 Graduate & undergraduate:
-* Master & Bachelor thesis supervision.
+* Thesis supervision.
 
 #### Université libre de Bruxelles
 
