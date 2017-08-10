@@ -17,4 +17,4 @@ E-mail: li.chen at economics.gu.se
 
 Phone: +46 31 786 6151
 
-<i class="fa fa-camera-retro"></i>
+fa_icon "camera-retro"
