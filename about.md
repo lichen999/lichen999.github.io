@@ -16,5 +16,3 @@ Add: Department of Economics, University of Gothenburg, Box 640, 405 30 Gothenbu
 E-mail: li.chen at economics.gu.se
 
 Phone: +46 31 786 6151
-
-fa_icon "camera-retro"
