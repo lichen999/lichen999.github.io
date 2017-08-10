@@ -29,6 +29,14 @@
                 </li>
             {% endif %}
         {% endif %}
+        
+        {% if site.links == true %}
+            {% if page.title != "Links" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/links">Links</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
