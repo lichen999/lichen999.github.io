@@ -2,8 +2,14 @@
 layout: post
 title: Teaching
 ---
+#### University of Gothenburg
+
+* Advanced Industrial Organization, Lecturer, 2017 Spring
+
+* Master/Bachelor thesis supervision
+
 #### Université libre de Bruxelles
 
-* 2012 - 2014: TA for [Graduate Microeconomics II](http://www.plegros.net/content/spring/graduate-micro-ii-econ-s431)
+* [Graduate Microeconomics II](http://www.plegros.net/content/spring/graduate-micro-ii-econ-s431), Teaching Assistant, 2012 - 2014. 
 
-* 2015: TA for Math Applications to Microeconomics at [MathCamp](https://mathcampecares.wordpress.com/)
+* Math Applications to Microeconomics at [MathCamp](https://mathcampecares.wordpress.com/), 2015.
