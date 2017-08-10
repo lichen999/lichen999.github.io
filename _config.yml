@@ -58,6 +58,7 @@ about: true
 blog: false
 research: true
 teaching: true
+links: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
