@@ -11,12 +11,13 @@ Since September 2016, I am a Browaldh research fellow at [University of Gothenbu
 
 #### Contact
 
-Add :ramen : Department of Economics, University of Gothenburg, Box 640, 405 30 Gothenburg, Sweden
+Add :ramen: : Department of Economics, University of Gothenburg, Box 640, 405 30 Gothenburg, Sweden
 
 E-mail: li.chen at economics.gu.se
 
 Phone: +46 31 786 6151
 
+:sunglasses:
 
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})
 
