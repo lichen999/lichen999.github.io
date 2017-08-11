@@ -18,13 +18,13 @@ title: Research
 
 #### Policy reports
 
-* University admission practices – UK [[link](http://www.matching-in-practice.eu/higher-education-in-uk/){:target="_blank"}], MiP Country Profile 7, 2012
+* University Admission Practices – UK [[link](http://www.matching-in-practice.eu/higher-education-in-uk/){:target="_blank"}], MiP Country Profile 7, 2012
 
 * University Admission Practices – Ireland [[link](http://www.matching-in-practice.eu/higher-education-in-ireland/){:target="_blank"}], MiP Country Profile 8, 2012 
 
 * Matching Practices for Elementary Schools – Ireland, [[link](http://www.matching-in-practice.eu/elementary-schools-in-ireland/){:target="_blank"}], MiP Country Profile 10, 2012
 
-* Matching practices for secondary schools – Ireland, [[link](http://www.matching-in-practice.eu/secondary-schools-in-ireland/){:target="_blank"}], MiP Country Profile 11, 2012
+* Matching Practices for Secondary Schools – Ireland, [[link](http://www.matching-in-practice.eu/secondary-schools-in-ireland/){:target="_blank"}], MiP Country Profile 11, 2012
 
 <!--<section class="list">
     {% for post in site.posts %}
