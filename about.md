@@ -11,9 +11,9 @@ Since September 2016, I am a Browaldh research fellow at [University of Gothenbu
 
 #### Contact
 
-Department of Economics 
-University of Gothenburg 
-Box 640, 405 30 Gothenburg 
+Add: Department of Economics, 
+University of Gothenburg, 
+Box 640, 405 30 Gothenburg,  
 Sweden
 
 @: li.chen at economics.gu.se
