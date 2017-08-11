@@ -5,7 +5,7 @@ title: Research
 
 #### Working Papers
 
-* Timing of Preference Submissions under the Boston mechanism [[PDF](https://lichen999.github.io/timing.pdf){:target="_blank"}],2017
+* Timing of Preference Submissions under the Boston mechanism [[PDF](https://lichen999.github.io/timing.pdf){:target="_blank"}], 2017
 
 * Self-selection in School choice [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182){:target="_blank"}], with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, 2017
 
