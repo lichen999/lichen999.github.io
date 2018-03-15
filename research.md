@@ -7,7 +7,7 @@ title: Research
 
 * Timing of Preference Submissions under the Boston mechanism [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}]
 
-* Self-selection in School choice [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182){:target="_blank"}], with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} Revise and Resubmit at Games and Economic Behavior
+* Self-selection in School choice [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182){:target="_blank"}], with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Revise and Resubmit at Games and Economic Behavior_
 
 #### Work in Progress
 
