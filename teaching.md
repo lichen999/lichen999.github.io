@@ -4,7 +4,9 @@ title: Teaching
 ---
 #### University of Gothenburg
 
-* Advanced Industrial Organization, 2017 Spring.
+* Advanced Microeconomics II, 2018 -
+
+* Advanced Industrial Organization, 2017 - 
 
 * Master & Bachelor thesis supervision.
 
