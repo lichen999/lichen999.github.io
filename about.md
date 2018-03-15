@@ -12,11 +12,11 @@ My research interests lie in the boundary between market design and industrial o
 
 #### Contact
 
-Add: Department of Economics, 
+🏭: Department of Economics, 
 University of Gothenburg, 
 Box 640, 405 30 Gothenburg,  
 Sweden
 
-@: li.chen at economics.gu.se
+✉️: li.chen at economics.gu.se
 
-Tel: +46 31 786 6151
+☎️: +46 31 786 6151
