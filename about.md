@@ -17,6 +17,6 @@ University of Gothenburg,
 Box 640, 405 30 Gothenburg,  
 Sweden
 
-✉️: li.chen at economics.gu.se
+📡: li.chen at economics.gu.se
 
 ☎️: +46 31 786 6151
