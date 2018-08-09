@@ -11,7 +11,8 @@ title: Research
 
 #### Work in Progress
 
-* Designing Heaven's Will: Assigning Civil Servants by Drawing Lots in Imperial China, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} <details><summary>ABSTRACT</summary>
+* Designing Heaven's Will: Assigning Civil Servants by Drawing Lots in Imperial China, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} 
+     <details><summary>#####Abstract</summary>
       <p>This paper presents the evolution of a centralized matching mechanism that was in place for the assignment of civil servants from the late 16th century to early 20th cen- tury in China. Based on original documents and historical studies, we provide the first formal description of this procedure: candidates were assigned to jobs through a se- quential lottery-based procedure, and they could not be assigned to their home regions, known as the rule of avoidance. By constructing a general model of sequential random matching, we first show that the procedure was not efficient, defined as maximality of the matching. We then show prioritizing “hard to match” candidates and jobs improves efficiency. This provides theoretical foundation for a policy change in 1824. We further provide conditions under which the sequential lottery-based procedure is efficient.</p>
   </details>
 
