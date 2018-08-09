@@ -20,10 +20,14 @@ title: Research
 * Time-constrained School Choice, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
     
     <details><summary>Abstract</summary>
-     > We study a time-constrained sequential mechanism where students are asked to submit one choice and they can revise their choices in the subsequent rounds. A critical distinction between this mechanism and the standard school choice mechanism is that it provides students with information about the match along the matching process and allows them to make necessary changes. We show this information however can create double-edged effects when students only have a fixed number of times to revise. On the one hand, information helps students with lower priorities to be matched to lower ranked choices. On the other hand, these students with lower priorities are less likely to obtain their more preferred choices, because information also helps students with higher priorities to revise more effectively.
+      > <p>We study a time-constrained sequential mechanism where students are asked to submit one choice and they can revise their choices in the subsequent rounds. A critical distinction between this mechanism and the standard school choice mechanism is that it provides students with information about the match along the matching process and allows them to make necessary changes. We show this information however can create double-edged effects when students only have a fixed number of times to revise. On the one hand, information helps students with lower priorities to be matched to lower ranked choices. On the other hand, these students with lower priorities are less likely to obtain their more preferred choices, because information also helps students with higher priorities to revise more effectively.</p>
      </details>
 
 * Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} 
+ 
+     <details><summary>Abstract</summary>
+    <p>A classic trade-off that school districts face when deciding which algorithm to use to match students to schools is that it is not possible to always respect both priorities and preferences. The student-proposing Deferred Acceptance algorithm respect priorities (fairness) but can lead to inefficient allocations. The Top Trading Cycle algorithm respects preferences (efficiency) but may violate priorities. We identify a new condition on school choice markets under which both algorithms yield the same allocation. Our condition differs from earlier conditions in the literature in that it places restrictions on how preferences and priorities relate to one another, rather than placing restrictions on either side separately. Such condition is natural as priorities are often the reflection of what school districts view as legitimate preferences.</p>
+    </details>
 
 
 #### Other reports
