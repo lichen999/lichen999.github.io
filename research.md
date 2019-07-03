@@ -4,13 +4,11 @@ title: Research
 ---
 #### Published papers
 
-- Self-selection 
-
 - Self-selection in school choice, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Games and Economic Behavior 117 (2019), 59-81_ [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2880182){:target="_blank"}]
 
 #### Working Papers
 
-- Timing of Preference Submissions under the Boston mechanism [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}]
+Timing of Preference Submissions under the Boston mechanism [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}]
 
 #### Work in Progress
 
