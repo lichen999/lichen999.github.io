@@ -9,7 +9,7 @@ author_profile: true
 
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, Games and Economic Behavior 117 (2019), 59-81
 
-### Working Papers and Work in Progress
+### Working papers and work in progress
 
 - Timing of preference submissions under the Boston mechanism, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
 
