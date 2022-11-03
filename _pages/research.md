@@ -11,7 +11,7 @@ author_profile: true
 
 ### Working papers and work in progress
 
-- Timing of preference submissions under the Boston mechanism, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
+- Timing of preference submissions under the Boston mechanism, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"} R&R Journal of Public Economic Theory
 
 - Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}
 
