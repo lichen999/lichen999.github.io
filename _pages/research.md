@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Published papers
+### Publication
 
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, Games and Economic Behavior 117 (2019), 59-81
 
