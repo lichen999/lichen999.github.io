@@ -19,11 +19,12 @@ author_profile: true
 
 - Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment, with Inácio Bó and Rustamjan Hakimov
 
-- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}
-
-- Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang
 
 ### work in progress
+
+- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} *[working paper coming soon]*
+
+- Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
 
 - Optimal design of wait list under black market, with Rustamdjan Hakimov and Somouaoga Bonkoungou
 
