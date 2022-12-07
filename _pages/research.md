@@ -17,12 +17,12 @@ author_profile: true
 
 - Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"}
 
+- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, available on [Arxiv](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}
+
 - Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment, with Inácio Bó and Rustamjan Hakimov
 
 
 ### work in progress
-
-- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} *[working paper coming soon]*
 
 - Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
 
