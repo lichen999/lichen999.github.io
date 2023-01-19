@@ -22,7 +22,7 @@ author_profile: true
 - [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://lichen999.github.io/files/BoChenHakimov2023.pdf), with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
 
-### work in progress
+### Work in progress
 
 - Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
 
