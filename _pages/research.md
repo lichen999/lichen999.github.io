@@ -24,9 +24,9 @@ author_profile: true
 
 ### Work in progress
 
-# - Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
+[comment]: <> (THIS SHOULD BE REMOVED) - Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
 
-# - Optimal design of wait list under black market, with Rustamdjan Hakimov and Somouaoga Bonkoungou
+- Optimal design of wait list under black market, with Rustamdjan Hakimov and Somouaoga Bonkoungou
 
 ### Other reports
 
