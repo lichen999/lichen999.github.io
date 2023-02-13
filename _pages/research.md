@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publication
 
-- Timing of preference submissions under the Boston mechanism, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"} accepted, Journal of Public Economic Theory
+- Timing of preference submissions under the Boston mechanism, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}, accepted, Journal of Public Economic Theory
 
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, Games and Economic Behavior 117 (2019), 59-81
 
