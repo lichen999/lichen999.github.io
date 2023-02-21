@@ -17,7 +17,7 @@ author_profile: true
 
 - Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"}
 
-- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, available on [Arxiv](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}
+- Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, available on [Arxiv](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"} \[[code](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)\]
 
 - [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://lichen999.github.io/files/BoChenHakimov2023.pdf), with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
