@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publication
 
-- [Timing of preference submissions under the Boston mechanism](https://onlinelibrary.wiley.com/doi/10.1111/jpet.12639){:target="_blank"}, accepted, Journal of Public Economic Theory, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
+- [Timing of preference submissions under the Boston mechanism](https://onlinelibrary.wiley.com/doi/10.1111/jpet.12639){:target="_blank"}, forthcoming, Journal of Public Economic Theory, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
 
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, Games and Economic Behavior 117 (2019), 59-81
 
@@ -15,7 +15,7 @@ author_profile: true
 
 - Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}
 
-- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"}
+- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} R & R Journal of Economic Behavior and Organization
 
 - Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, available on [Arxiv](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
 
