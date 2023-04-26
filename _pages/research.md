@@ -13,13 +13,13 @@ author_profile: true
 
 ### Working papers
 
-- Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}
-
-- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} R & R Journal of Economic Behavior and Organization
+- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} R&R Journal of Economic Behavior and Organization
 
 - Respecting priorities versus respecting preferences in school choice: When is there a tradeoff? with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, available on [Arxiv](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
 
-- [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://lichen999.github.io/files/BoChenHakimov2023.pdf), with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
+- Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}
+
+- [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://arxiv.org/abs/2304.11415){:target="_blank"}, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
 - The Impact of Artificial Intelligence and Debiasing on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351820)
 
@@ -29,8 +29,6 @@ author_profile: true
 {::comment}
 
 ### Work in progress
-
-- Emissions trading schemes and directed technological change: Evidence from China, with Ruijie Tian and Xiaojun Yang *[working paper coming soon]*
 
 - Optimal design of wait list under black market, with Rustamdjan Hakimov and Somouaoga Bonkoungou
 
