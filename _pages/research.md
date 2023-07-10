@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Publication
+### Publications
 
 - [Timing of preference submissions under the Boston mechanism](https://onlinelibrary.wiley.com/doi/10.1111/jpet.12639){:target="_blank"}, Journal of Public Economic Theory, Volume 25 (2023) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
 
