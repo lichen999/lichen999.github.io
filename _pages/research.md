@@ -21,7 +21,7 @@ author_profile: true
 
 - Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, avilable on [Arxiv](https://arxiv.org/abs/2304.11415){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
-- The Impact of Artificial Intelligence and Debiasing on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home) 
+- Artificial Intelligence and Debiasing in Hiring: Impact on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626059)
 
 - Who drives innovation? Evidence from the Chinese emissions trading schemes, with Ruijie Tian and Xiaojun Yang, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
 
