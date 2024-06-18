@@ -23,7 +23,7 @@ author_profile: true
 
 - Artificial Intelligence and Debiasing in Hiring: Impact on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626059)
 
-- Who drives innovation? Evidence from the Chinese emissions trading schemes, with Ruijie Tian and Xiaojun Yang, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
+- Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
 
 
 {::comment}
