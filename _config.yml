@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Li Chen"
   avatar           : "lc_sq.jpeg"
-  bio              : "Economist at University of Gothenburg"
-  location         : "Sweden"
+  bio              : 
+  location         : 
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MkEG5nUAAAAJ"
-  email            :  "li.chen@economics.gu.se"
+  email            :  ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
