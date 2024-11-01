@@ -10,17 +10,15 @@ redirect_from:
 
 ### Welcome!
 
-I am a senior lecturer at [Department of Economics](https://economics.handels.gu.se/english){:target="_blank"}, [University of Gothenburg](http://www.gu.se/english){:target="_blank"}. <!---I obtained my PhD from [ECARES](https://ecares.ulb.be/){:target="_blank"}, [Université libre de Bruxelles](http://www.ulb.ac.be/){:target="_blank"}.--->
+I am a research professor at Tonggji University, and affliated at [Department of Economics](https://economics.handels.gu.se/english){:target="_blank"}, [University of Gothenburg](http://www.gu.se/english){:target="_blank"}. <!---I obtained my PhD from [ECARES](https://ecares.ulb.be/){:target="_blank"}, [Université libre de Bruxelles](http://www.ulb.ac.be/){:target="_blank"}.--->
 
-My research interests are matching market and the design of marketplace, combining theoretical, empirical, and experimental analysis.
-My current [research](https://lichen999.github.io/research/) includes topics on school choice allocation, civil servants assignment, social housing allocation, human and algorithm interaction, and emission trading schemes.
+My research interests are market design and economics of innovation. I combine theoretical, empirical, and experimental approaches to explore these issues.
+My current [research](https://lichen999.github.io/research/) includes topics on the design of college admissions, social housing allocation, human and algorithm interaction. 
 
 ### Contact
 
-🛸 Office E616, Department of Economics,
-University of Gothenburg,
-Box 640, 405 30 Gothenburg, Sweden
+🛸 Zhonghe Building 11F, Siping Road 1239, Tongji University，Shanghai
 
-📧 li.chen at economics.gu.se
+📧 chen_li at tongji.edu.cn
 
-☎️ +46 31 786 6151
+
