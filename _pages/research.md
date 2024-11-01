@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 
-- [Respecting priorities versus respecting preferences in school choice: When is there a tradeoff?](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001179){:target="_blank"} with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, accepted, _Games and Economic Behavior, [Arxiv version](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
+- [Respecting priorities versus respecting preferences in school choice: When is there a tradeoff?](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001179){:target="_blank"} with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, accepted, _Games and Economic Behavior_, [Arxiv version](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
 
 - Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, accepted, _Review of Economics Design_, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710), 
 
