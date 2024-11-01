@@ -7,26 +7,23 @@ author_profile: true
 
 ### Publications
 
-- [Respecting priorities versus respecting preferences in school choice: When is there a tradeoff?](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001179){:target="_blank"} with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, [Arxiv version](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs), accepted, _Games and Economic Behavior_
+- [Respecting priorities versus respecting preferences in school choice: When is there a tradeoff?](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001179){:target="_blank"} with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, accepted, _Games and Economic Behavior, [Arxiv version](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
 
-- Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710), accepted, _Review of Economics Design_
+- Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, accepted, _Review of Economics Design_, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710), 
 
-- [Timing of preference submissions under the Boston mechanism](https://onlinelibrary.wiley.com/doi/10.1111/jpet.12639){:target="_blank"}, _Journal of Public Economic Theory_, Volume 25 (2023), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
+- [Timing of preference submissions under the Boston mechanism](https://onlinelibrary.wiley.com/doi/10.1111/jpet.12639){:target="_blank"}, _Journal of Public Economic Theory_, Volume 25 (2023), [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3017156){:target="_blank"}
 
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Games and Economic Behavior_, Volume 117 (2019), 59-81
 
 ### Working papers
 
-- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} 
-
 - Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, avilable on [Arxiv](https://arxiv.org/abs/2304.11415){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf), conditionally accepted at _Games and Economic Behavior_
+
+- Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} 
 
 - Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}
 
 - Artificial Intelligence and Debiasing in Hiring: Impact on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626059)
-
-
-
 
 {::comment}
 
