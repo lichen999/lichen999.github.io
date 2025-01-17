@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 
-- Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, accepted, _Games and Economic Behavior_ [Arxiv version](https://arxiv.org/abs/2304.11415){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
+- [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001544){:target="_blank"} , with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, _Games and Economic Behavior_, Volume 148 (2024), 487-516, [Arxiv version](https://arxiv.org/abs/2304.11415){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
 - Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, accepted, _Review of Economics Design_, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
 
