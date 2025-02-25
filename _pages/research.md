@@ -9,7 +9,7 @@ author_profile: true
 
 - [Strategic Responses to Personalized Pricing and Demand for Privacy: An Experiment](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001544){:target="_blank"} , with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and [Rustamjan Hakimov](https://www.hakimov.info/){:target="_blank"}, _Games and Economic Behavior_, Volume 148 (2024), 487-516, [Arxiv version](https://arxiv.org/abs/2304.11415){:target="_blank"}, [[Online appendix]](https://lichen999.github.io/files/BoChenHakimov2023_OnlineAppendix.pdf)
 
-- Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations, with Ruijie Tian and Xiaojun Yang, accepted, _Review of Economics Design_, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
+- [Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations](https://link.springer.com/article/10.1007/s10058-024-00372-y), with Ruijie Tian and Xiaojun Yang, forthcoming, _Review of Economics Design_, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
 
 - [Respecting priorities versus respecting preferences in school choice: When is there a tradeoff?](https://www.sciencedirect.com/science/article/abs/pii/S0899825624001179){:target="_blank"} with [Estelle Cantillon](http://ecantill.ulb.be/){:target="_blank"} and [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Games and Economic Behavior_, Volume 148（2024），82-96， [Arxiv version](https://arxiv.org/pdf/2212.02881.pdf){:target="_blank"}, [[code]](https://github.com/lichen999/Generalized-Mutually-Best-Pairs)
 
