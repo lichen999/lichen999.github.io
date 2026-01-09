@@ -26,13 +26,16 @@ author_profile: true
 
 - Artificial Intelligence and Debiasing in Hiring: Impact on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626059)
 
-{::comment}
 
-### Work in progress
 
-- Optimal design of wait list under black market, with Rustamdjan Hakimov and Somouaoga Bonkoungou
+### Selected work in progress
 
-{:/comment}
+- Mitigating scalping in rent-controlled housing through waiting list design, with Rustamdjan Hakimov and Somouaoga Bonkoungou
+- Patent Value and Open Licensing Strategy, with Xia Liu and Shaofang Xue
+
+### 中文发表
+
+- 刘夏, 陈栗, 王欣宇. 专利开放许可的知识溢出效应研究——基于英德两国的准自然实验. 科技进步与对策, 2024, 41(12): 105-115
 
 ### Other reports
 
