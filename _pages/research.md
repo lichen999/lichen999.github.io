@@ -18,7 +18,7 @@ author_profile: true
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Games and Economic Behavior_, Volume 117 (2019), 59-81
 
 ### Working papers
-- Information Access and College Admission Outcomes, with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"} , available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"} 
+- Information Access and College Admission Outcomes, with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"} , available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"} *R&R, Journal of Public Economics*
   
 - Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"} 
 
