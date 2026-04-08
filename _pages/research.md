@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Publications
-- Designing Heaven's Will: The job assignment in the Chinese imperial civil service, with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}  forthcoming, _Games and Economic Behavior_
+- [Designing Heaven's Will: The job assignment in the Chinese imperial civil service](https://www.sciencedirect.com/science/article/pii/S0899825626000692), with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"}, available on [Arxiv](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"}  forthcoming, _Games and Economic Behavior_
 
 - [Towards green progress: An empirical analysis of the Chinese emission trading pilot schemes and technological innovations](https://link.springer.com/article/10.1007/s10058-024-00372-y), with Ruijie Tian and Xiaojun Yang, _Review of Economics Design_, Volumen 29 (2025) [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363710)
   
