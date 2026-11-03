@@ -60,6 +60,7 @@ $m-grey:         #6E7279;
 .pub-type.journal { background: #E5E3F2; color: $m-purple; }     /* Journal Article */
 .pub-type.wp      { background: #E1F3F6; color: $m-blue-text; }  /* Working Paper */
 .pub-type.book    { background: #ECEDEF; color: #4A4D52; }       /* Book / Chapter */
+.pubs { font-size: 0.9em; }
 
 /* topic tags: solid palette colors */
 .tag {
@@ -76,3 +77,4 @@ $m-grey:         #6E7279;
 .tag.innovation  { background: $m-blue-text; }
 .tag.experiments { background: $m-blue; color: #0F3D45; }
 .tag.theory      { background: $m-grey; }
+
