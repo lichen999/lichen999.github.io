@@ -50,15 +50,14 @@ Li Chen · *MiP Country Profile 10*, 2012 · <span class="tag market">market des
 
 <span class="pub-type report">Report</span> **[Matching Practices for Secondary Schools – Ireland](http://www.matching-in-practice.eu/secondary-schools-in-ireland/){:target="_blank"}**<br>
 Li Chen · *MiP Country Profile 11*, 2012 · <span class="tag market">market design</span> <span class="tag education">education</span>
-<!--
-### Selected work in progress
-
-- Mitigating scalping in rent-controlled housing through waiting list design, with Rustamdjan Hakimov and Somouaoga Bonkoungou
--->
-
 
 
 </div>
+
+<!--
+### Selected work in progress
+- Mitigating scalping in rent-controlled housing through waiting list design, with Rustamdjan Hakimov and Somouaoga Bonkoungou
+-->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
