@@ -16,7 +16,7 @@ My research interests are market design, matching and economics of innovation. I
 
 ### Contact
 
-🛸 SICIP, Zhonghe Building 11F, Siping Road 1239, Tongji University，Shanghai
+🛸 SICIP, Zhonghe Building 11F, Siping Road 1239, Tongji University, Shanghai
 
 📧 chen_li at tongji.edu.cn
 
