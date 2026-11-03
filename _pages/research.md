@@ -7,7 +7,8 @@ author_profile: true
 
 ### Publications
 ---
-- Which Patents Go Open? External Value, Internal Value, and the Patent Licensing Decision, with Xia Liu and Shaofang Xue, Economics of Innovation and New Technology, forthcoming, [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6665298){:target="_blank"}
+<span class="pub-type journal">Journal Article</span> **Which Patents Go Open? External Value, Internal Value, and the Patent Licensing Decision**<br>
+Xia Liu, Shaofang Xue and Li Chen · *Economics of Innovation and New Technology*, forthcoming · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6665298){:target="_blank"} · <span class="tag innovation">innovation</span>
   
 - [Information Access and College Admission Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272726002185), with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"}, *Journal of Public Economics*, Volume 263 (2026), [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"}
   
