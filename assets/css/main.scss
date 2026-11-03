@@ -60,6 +60,8 @@ $m-grey:         #6E7279;
 .pub-type.journal { background: #E5E3F2; color: $m-purple; }     /* Journal Article */
 .pub-type.wp      { background: #EEEFF1; color: #5A5E66; }  /* Working Paper */
 .pub-type.book    { background: #ECEDEF; color: #4A4D52; }       /* Book / Chapter */
+.pub-type.cn     { background: #FBE6D2; color: #9A4D12; }  /* 中文发表: light orange */
+.pub-type.report { background: #E4F1D8; color: #3E6B1F; }  /* Report: apple green */
 .pubs { font-size: 0.9em; }
 .pubs p {
   border: 1px solid #D5D7DC;
