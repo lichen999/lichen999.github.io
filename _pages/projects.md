@@ -5,8 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-2026 - 2028: Young Scientists Fund, National Natural Science Foundation of China
+<i class="fas fa-folder"></i> **2026 - 2028**: Young Scientists Fund, National Natural Science Foundation of China (*College admission mechanisms and their long-run effects*)
 
-2025 - 2026: CCF-DiDi GAIA Collaborative Research Funds, DiDi Chuxing Technology Company 
+<i class="fas fa-folder"></i> **2025 - 2026**: CCF-DiDi GAIA Collaborative Research Funds, DiDi Chuxing Technology Company (*Fairness in marketplaces*)
 
-2016 - 2022: Browaldhs Research Fund, Jan Wallanders och Tom Hedelius stiftelse, and Tore Browaldhs stiftelse (Sweden)
+<i class="fas fa-folder"></i> **2016 - 2022**: Browaldhs Research Fund, Jan Wallanders och Tom Hedelius stiftelse, and Tore Browaldhs stiftelse, Sweden
