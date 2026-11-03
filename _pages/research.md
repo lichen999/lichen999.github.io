@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-### Publications
 ---
+### Publications
 <span class="pub-type journal">Journal Article</span> **Which Patents Go Open? External Value, Internal Value, and the Patent Licensing Decision**<br>
 Xia Liu, Shaofang Xue and Li Chen · *Economics of Innovation and New Technology*, forthcoming · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6665298){:target="_blank"} · <span class="tag innovation">innovation</span>
   
-- [Information Access and College Admission Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272726002185), with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"}, *Journal of Public Economics*, Volume 263 (2026), [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"}
+<span class="pub-type journal">Journal Article</span> **[Information Access and College Admission Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272726002185){:target="_blank"}**<br>
+with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"} · *Journal of Public Economics*, 263 (2026) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"} · <span class="tag market">market design</span> <span class="tag education">education</span>
   
 - [Designing Heaven's Will: The job assignment in the Chinese imperial civil service](https://www.sciencedirect.com/science/article/pii/S0899825626000692), with [Inácio Bó](http://www.inaciobo.com/){:target="_blank"},  _Games and Economic Behavior_, Volume 158 (2026), 441-461, [Arxiv version](https://arxiv.org/abs/2105.02457){:target="_blank"}, [[Online appendix]](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"},
 
@@ -25,7 +26,6 @@ Xia Liu, Shaofang Xue and Li Chen · *Economics of Innovation and New Technology
 - [Self-selection in school choice](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300843){:target="_blank"}, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"}, _Games and Economic Behavior_, Volume 117 (2019), 59-81
 
 ### Working papers 
----
 - Time-constrained Dynamic Mechanisms for College Admissions, with [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:target="_blank"} and Min Zhu, available on [Arxiv](https://arxiv.org/abs/2207.12179){:target="_blank"},[[Online appendix]](https://lichen999.github.io/files/TCDM_OnlineAppendix.pdf){:target="_blank"} 
 
 - Artificial Intelligence and Debiasing in Hiring: Impact on Applicant Quality and Gender Diversity, with [Edmond Awad](https://www.edmondawad.me/), [Loukas Balafoutas](https://www.loukasbalafoutas.com/), [Edwin Ip](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Edwin_Ip), [Joe Vecci](https://sites.google.com/site/josephvecci/home), available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626059)
@@ -37,13 +37,9 @@ Xia Liu, Shaofang Xue and Li Chen · *Economics of Innovation and New Technology
 -->
 
 ### 中文发表
----
-
 - 刘夏, 陈栗, 王欣宇. 专利开放许可的知识溢出效应研究——基于英德两国的准自然实验. 科技进步与对策, 2024, 41(12): 105-115
 
 ### Other reports
----
-
 * University Admission Practices – UK [[link](http://www.matching-in-practice.eu/higher-education-in-uk/){:target="_blank"}], MiP Country Profile 7, 2012
 
 * University Admission Practices – Ireland [[link](http://www.matching-in-practice.eu/higher-education-in-ireland/){:target="_blank"}], MiP Country Profile 8, 2012
