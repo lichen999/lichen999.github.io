@@ -51,7 +51,6 @@ Li Chen · *MiP Country Profile 10*, 2012 · <span class="tag market">market des
 <span class="pub-type report">Report</span> **[Matching Practices for Secondary Schools – Ireland](http://www.matching-in-practice.eu/secondary-schools-in-ireland/){:target="_blank"}**<br>
 Li Chen · *MiP Country Profile 11*, 2012 · <span class="tag market">market design</span> <span class="tag education">education</span>
 
-
 </div>
 
 <!--
