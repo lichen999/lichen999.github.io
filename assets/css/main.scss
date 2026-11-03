@@ -84,4 +84,7 @@ $m-grey:         #6E7279;
 .tag.experiments { background: $m-blue; color: #0F3D45; }
 .tag.theory      { background: $m-grey; }
 
-.archive .page__title { display: none; }
+/* links: titles mPurple, other links mPurpleLight, underline on hover */
+.pubs a { color: #7B74B8; text-decoration: none; }
+.pubs a:hover { text-decoration: underline; }
+.pubs strong, .pubs strong a { color: #433C82; }
