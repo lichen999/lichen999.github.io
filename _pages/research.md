@@ -4,14 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
----
+<div class="pubs" markdown="1">
 ### Publications
 <span class="pub-type journal">Journal Article</span> **Which Patents Go Open? External Value, Internal Value, and the Patent Licensing Decision**<br>
 Xia Liu, Shaofang Xue and Li Chen · *Economics of Innovation and New Technology*, forthcoming · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6665298){:target="_blank"} · <span class="tag innovation">innovation</span>
   
 <span class="pub-type journal">Journal Article</span> **[Information Access and College Admission Outcomes](https://www.sciencedirect.com/science/article/pii/S0047272726002185){:target="_blank"}**<br>
-with [Le Kang](https://sites.google.com/view/lekang){:target="_blank"} and [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"} · *Journal of Public Economics*, 263 (2026) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"} · <span class="tag market">market design</span> <span class="tag education">education</span>
+[Le Kang](https://sites.google.com/view/lekang){:target="_blank"}, [Yang Song](https://sites.google.com/view/yang-song){:target="_blank"} and Li Chen· *Journal of Public Economics*, 263 (2026) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151666){:target="_blank"} · <span class="tag market">market design</span> <span class="tag education">education</span>
 
 <span class="pub-type journal">Journal Article</span> **[Designing Heaven's Will: The job assignment in the Chinese imperial civil service](https://www.sciencedirect.com/science/article/pii/S0899825626000692){:target="_blank"}**<br>
 [Inácio Bó](http://www.inaciobo.com/){:target="_blank"} and Li Chen · *Games and Economic Behavior*, 158 (2026), 441–461 · [arXiv](https://arxiv.org/abs/2105.02457){:target="_blank"} · [Appendix](https://www.dropbox.com/s/wle4udf8xav234f/appendix_dhw.pdf?dl=0){:target="_blank"} · <span class="tag market">market design</span>
@@ -70,6 +69,8 @@ Li Chen, [Juan Pereyra](https://sites.google.com/site/juanspereyrabarreiro/){:ta
 * Matching Practices for Elementary Schools – Ireland, [[link](http://www.matching-in-practice.eu/elementary-schools-in-ireland/){:target="_blank"}], MiP Country Profile 10, 2012
 
 * Matching Practices for Secondary Schools – Ireland, [[link](http://www.matching-in-practice.eu/secondary-schools-in-ireland/){:target="_blank"}], MiP Country Profile 11, 2012
+
+</div>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
